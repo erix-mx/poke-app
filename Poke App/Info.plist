@@ -17,6 +17,10 @@
 					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
 					<key>UISceneStoryboardFile</key>
 					<string>Main</string>
+					<key>UIStatusBarStyle</key>
+					<string>UIStatusBarStyleLightContent</string>
+					<key>UIViewControllerBasedStatusBarAppearance</key>
+					<false/>
 				</dict>
 			</array>
 		</dict>
